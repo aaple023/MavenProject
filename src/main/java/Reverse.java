@@ -5,11 +5,13 @@ public class Reverse {
     String name="neha";
     String dum="nishant";
     String gun="";
+    System.out.println("you r best");
         System.out.println("dun ="+dum+" "+"name ="+name);
     gun=dum;//nishan
     dum=name;//neha
     name=gun;
     System.out.println("dun ="+dum+" "+"name ="+name);
+        System.out.println("love you neha");
 
 
     /*String ch="";
