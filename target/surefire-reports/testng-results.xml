@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T17:30:11 IST" name="Loan Department" finished-at="2024-03-07T17:30:20 IST" duration-ms="9216">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T17:30:11 IST" name="Test" finished-at="2024-03-07T17:30:20 IST" duration-ms="9216">
+      <class name="Lohout.Cont">
+        <test-method is-config="true" signature="webLnch()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:11 IST" name="webLnch" finished-at="2024-03-07T17:30:16 IST" duration-ms="4876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLnch -->
+        <test-method signature="lung()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:16 IST" name="lung" finished-at="2024-03-07T17:30:16 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lung -->
+        <test-method is-config="true" signature="closed()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:16 IST" name="closed" finished-at="2024-03-07T17:30:16 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closed -->
+        <test-method is-config="true" signature="webLnch()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:16 IST" name="webLnch" finished-at="2024-03-07T17:30:20 IST" duration-ms="3622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLnch -->
+        <test-method signature="title()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:20 IST" name="title" finished-at="2024-03-07T17:30:20 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="closed()[pri:0, instance:Lohout.Cont@2145b572]" started-at="2024-03-07T17:30:20 IST" name="closed" finished-at="2024-03-07T17:30:20 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closed -->
+      </class> <!-- Lohout.Cont -->
+    </test> <!-- Test -->
+  </suite> <!-- Loan Department -->
+</testng-results>
